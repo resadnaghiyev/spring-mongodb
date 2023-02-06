@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://<username>:<password>@<cluster>.l5v4qvh.mongodb.net/?retryWrites=true&w=majority
+      database: demo
